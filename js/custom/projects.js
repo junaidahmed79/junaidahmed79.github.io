@@ -12,15 +12,25 @@ let projects = [
     {
         "id": 2,
         "type": "Web",
-        "title": "Landing Page of Bingtech Solutions",
+        "title": " forecaster for fuel costs",
         "desc": `
-        Bingtechs Solutions is software agency which provides services to others for Graphic Designing , Web development , App development , Creative Degign and Email Marketing.
+        Brand elite provides a services to others for the Ecommerece business such AS Amazon , ebay and walmart etc. It offers consultancy and help to build the business and provide solution for Account management , Listing optimization , Advertising like PPC and more.
         `,
-        "img": "images/projects/web/bing check.png",
+        "img": "images/projects/web/forcaster.png",
         "url": ""
     },
     {
         "id": 3,
+        "type": "Web",
+        "title": "Landing Page of Bingtech Solutions",
+        "desc": `
+        Bingtechs Solutions is software agency which provides services to others for Graphic Designing , Web development , App development , Creative Degign and Email Marketing.
+        `,
+        "img": "images/projects/web/bingtech.png",
+        "url": ""
+    },
+    {
+        "id": 4,
         "type": "Design",
         "title": "Colorization",
         "desc": ``,
