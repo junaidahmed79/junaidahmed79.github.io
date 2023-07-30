@@ -14,7 +14,7 @@ let projects = [
         "type": "Web",
         "title": " forecaster for fuel costs",
         "desc": `
-        Brand elite provides a services to others for the Ecommerece business such AS Amazon , ebay and walmart etc. It offers consultancy and help to build the business and provide solution for Account management , Listing optimization , Advertising like PPC and more.
+        
         `,
         "img": "images/projects/web/forcaster.png",
         "url": ""
