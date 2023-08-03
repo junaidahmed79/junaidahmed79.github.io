@@ -2,7 +2,7 @@ let projects = [
 {
 "id": 1,
 "type": "Web",
-"title": " Password Generator",
+"title": "Password Generator",
 "desc": `
 The Simple Password Generator is a user-friendly web-based application designed to create passwords quickly and easily. With this tool, users can generate passwords of varying strengths to enhance their online security.<br><br>
 This straightforward app provides four distinct options for password generation: "Super Strong," "Strong," "Weak," and "Funny." Users can select their preferred strength level based on their specific requirements and preferences.
